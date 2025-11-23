@@ -14,4 +14,6 @@ Ajou University Department of Software and Computer Engineering 24
 
 [codeforces](codeforces.com/profile/yeondujipsa)
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yeondujipsa)
+
 [velog](https://velog.io/@yeondujipsa)
