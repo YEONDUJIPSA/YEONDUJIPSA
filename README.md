@@ -1,9 +1,7 @@
 ## Sungsu Park
----
 Ajou University Department of Software and Computer Engineering 24
 
 ## sites
----
 [X](x.com/YEONDUJIPSA)
 
 [BOJ](www.acmicpc.net/user/sungsu0718)
