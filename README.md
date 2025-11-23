@@ -1,16 +1,12 @@
-## Hi there 👋
+## Sungsu Park
+---
+Ajou University Department of Software and Computer Engineering 24
 
-<!--
-**YEONDUJIPSA/YEONDUJIPSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## sites
+---
+[X](x.com/YEONDUJIPSA)
+[BOJ](www.acmicpc.net/user/sungsu0718)
+[Solved.ac](solved.ac/profile/sungsu0718)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungsu0718)](https://solved.ac/sungsu0718)
+[codeforces](codeforces.com/profile/yeondujipsa)
+[velog](https://velog.io/@yeondujipsa)
