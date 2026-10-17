@@ -2,7 +2,7 @@
 Ajou University Department of Software and Computer Engineering 24
 
 <a href="https://solved.ac/sungsu0718">
-  <img src="assets/solvedac.png" alt="solved.ac 프로필" width="100%" />
+  <img src="BOJ memory - sungsu0718.png" alt="solved.ac 프로필" width="100%" />
 </a>
 
 ## sites
