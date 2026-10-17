@@ -1,6 +1,10 @@
 ## Sungsu Park
 Ajou University Department of Software and Computer Engineering 24
 
+[![Solved.ac프로필](boj.png)](https://solved.ac/profile/sungsu0718)
+
+[![Codeforces](https://raw.githubusercontent.com/RyuZU3747/cfstats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/YEONDUJIPSA)
+
 ## sites
 [X](https://x.com/YEONDUJIPSA)
 
