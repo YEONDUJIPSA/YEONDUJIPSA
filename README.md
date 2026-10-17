@@ -1,6 +1,10 @@
 ## Sungsu Park
 Ajou University Department of Software and Computer Engineering 24
 
+<a href="https://solved.ac/sungsu0718">
+  <img src="assets/solvedac.png" alt="solved.ac 프로필" width="100%" />
+</a>
+
 ## sites
 [X](https://x.com/YEONDUJIPSA)
 
